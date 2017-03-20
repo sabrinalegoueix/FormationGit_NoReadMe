@@ -1,7 +1,10 @@
 perl
-perl
-
+perl -lne
 perl -lane 'print "il fait beau"'
 perl -lane 'print "il fait beau 2"'
+
+pelr
 perl -lane 'print "il fait beau 3"'
 perl -lane 'print "il fait beau 4"'
+
+perl -nme
