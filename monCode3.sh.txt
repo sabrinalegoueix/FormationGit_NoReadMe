@@ -1,0 +1,4 @@
+perl -lane 'print "il fait beau"'
+perl -lane 'print "il fait beau 2"'
+perl -lane 'print "il fait beau 3"'
+perl -lane 'print "il fait beau 4"'
